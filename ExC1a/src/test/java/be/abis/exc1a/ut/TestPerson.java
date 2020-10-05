@@ -1,7 +1,7 @@
-package be.abis.exb4.ut;
+package be.abis.exc1a.ut;
 
-import be.abis.exb4.exception.PersonShouldBeAdultException;
-import be.abis.exb4.model.Person;
+import be.abis.exc1a.exception.PersonShouldBeAdultException;
+import be.abis.exc1a.model.Person;
 import org.junit.Before;
 import org.junit.Test;
 

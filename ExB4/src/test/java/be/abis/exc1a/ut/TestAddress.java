@@ -1,4 +1,4 @@
-package be.abis.exb4.ut;
+package be.abis.exc1a.ut;
 
 import be.abis.exb4.model.Address;
 import org.junit.Before;

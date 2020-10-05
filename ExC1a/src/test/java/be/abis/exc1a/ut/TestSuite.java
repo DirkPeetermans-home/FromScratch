@@ -1,11 +1,11 @@
-package be.abis.exb4.ut;
+package be.abis.exc1a.ut;
 
 import org.junit.runner.RunWith;
 import org.junit.runners.Suite;
 
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
-        TestAddress.class, TestPerson.class
+        TestAddress.class, TestPerson.class, TestCompany.class
 })
 
 public class TestSuite {

@@ -8,11 +8,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="ExB4" />
         <module name="ExB3" />
+        <module name="ExC1a" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ExB3" target="8" />
       <module name="ExB4" target="8" />
+      <module name="ExC1a" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
